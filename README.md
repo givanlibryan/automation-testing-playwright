@@ -194,6 +194,3 @@ jobs:
   - Use: `git config core.ignorecase false`.
 
 ---
-
-## 📝 License
-MIT © Your Name
